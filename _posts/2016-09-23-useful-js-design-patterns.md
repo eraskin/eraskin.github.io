@@ -11,11 +11,11 @@ tags:
 
 ## В этом посте мы познакомимся со следующими шаблонами проектирования в JavaScript:
 
-  * Функции как абстракции
-  * Функции для создания модулей
-  * Немедленно вызываемые функциональные выражения (IIFE)
+  * [Функции как абстракции](#functions_as_abstractions)
+  * [Функции для создания модулей](#functions_as_modules)
+  * [Немедленно вызываемые функциональные выражения (IIFE)](#functions_as_iife)
   
-### Функции как абстракции
+### <a name="functions_as_abstractions"></a>Функции как абстракции
 Функция может быть передана как указатель и обернута в вызов:
 
 ```javascript
@@ -43,8 +43,9 @@ var doWork = function(f)
 doWork(work);
 ```
 
-### Функции для создания модулей
+### <a name="functions_as_modules"> Функции для создания модулей
 Функции могут быть использованы как объекты, которые имеют члены, методы и приватные переменные:
+
 ```javascript
 var worker = createWorker();
  
@@ -105,10 +106,10 @@ var createWorker = function()
 var worker = createWorker();
 ```
 
-### Немедленно вызываемые функциональные выражения (IIFE)
+### <a name="functions_as_iife"></a> Немедленно вызываемые функциональные выражения (IIFE)
 
 Один из недостатков вышеприведенных шаблонов – это то, что мы создаем глобальные переменные. 
-К примеру, createWorker – это глобальная переменная.
+К примеру, createWorker – это [глобальная](http://en.wikipedia.org/wiki/Global_variable) переменная.
 createWorker создает такие scopes и переменные, как workCount, task1 и task2, которые видны только внутри createWorker.
 В Javascript глобальные переменные – это зло. 
 Очень легко переопределить глобальную переменную, объявленную кем-то еще. 
@@ -153,7 +154,7 @@ program();
 ```
 
 Однако, тут мы по-прежнему имеем глобальную переменную program. Как мы можем избавиться и от нее?
-Введя такое понятие, как IIFE – immediately-invoked function expression (немедленно вызываемое функциональное выражение):
+Введя такое понятие, как [IIFE](http://en.wikipedia.org/wiki/Immediately-invoked_function_expression) – immediately-invoked function expression (немедленно вызываемое функциональное выражение):
 
 ```javascript
 (function()
