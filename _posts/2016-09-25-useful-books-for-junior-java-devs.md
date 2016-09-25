@@ -54,7 +54,7 @@ tags:
 ## <a name="java_core"></a>Синтаксис Java
 
 ### Head First Java
-![image-left]({{ site.url }}{{ site.baseurl }}/images/head_first_java-259x300.jpg){: .align-left} Head First Java имеет довольно своеобразную манеру подачи материала. 
+[![image-left]({{ site.url }}{{ site.baseurl }}/images/head_first_java-259x300.jpg){: .align-left}](http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/) Head First Java имеет довольно своеобразную манеру подачи материала. 
 Написана достаточно живым разговорным языком. Много примеров и иллюстраций. 
 Закрепление материала ведется с помощью задачек. Есть форум на сайте издательства O’Reilly, 
 где можно обсудить материал книги и задать любой вопрос по теме. 
@@ -62,7 +62,7 @@ tags:
 Помимо самого синтаксиса Java разбираются базовые вещи из ООП и методологий разработки.
 
 ### Java. A Beginner's Guide
-[![image-left]({{ site.url }}{{ site.baseurl }}/images/java_oracle_book-242x300.jpg){: .align-left}](http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/) Head First Java имеет довольно
+[![image-left]({{ site.url }}{{ site.baseurl }}/images/java_oracle_book-242x300.jpg){: .align-left}](http://www.amazon.com/Java-Beginners-Guide-Herbert-Schildt/dp/0071606327/) Head First Java имеет довольно
 Более традиционная книга, написанная, скорее, в академичном стиле, если сравнивать с Head First Java. 
 Автором этой книги является [Герберт Шилдт](http://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BB%D0%B4%D1%82,_%D0%93%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D1%82) – очень известный программист и писатель в области компьютерных наук. 
 Известен также за свои труды по C, C++ и C#. 
@@ -72,7 +72,7 @@ tags:
 ## <a name="oop"></a>ООП
 
 ### Head First Object-Oriented Analysis & Design
-![image-left]({{ site.url }}{{ site.baseurl }}/images/head_first_ooad-259x300.jpg){: .align-left} Понимание синтаксиса языка программирования – это, конечно, необходимая вещь. 
+[![image-left]({{ site.url }}{{ site.baseurl }}/images/head_first_ooad-259x300.jpg){: .align-left}](http://www.amazon.com/Head-First-Object-Oriented-Analysis-Design/dp/0596008678/) Понимание синтаксиса языка программирования – это, конечно, необходимая вещь. 
 Однако без изучения наиболее популярной на данный момент парадигмы ООП тоже не обойтись. 
 В процессе чтения книги Head First Object-Oriented Analysis and Design вы познакомитесь на практических примерах 
 с основами разработки в стиле ООП. И такие понятия как SRP, SOLID, OCR, Design Patterns будут вам уже не страшны :) 
@@ -81,7 +81,7 @@ tags:
 ## <a name="software_methodologies"></a>Методологии разработки ПО
 
 ### Test-Driven Development
-![image-left]({{ site.url }}{{ site.baseurl }}/images/test_driven_development-239x300.jpg){: .align-left}
+[![image-left]({{ site.url }}{{ site.baseurl }}/images/test_driven_development-239x300.jpg){: .align-left}](http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/)
 Test-Driven Development (TDD) – это очень популярная на данный момент методология разработки программного обеспечения. 
 Поэтому новичкам было бы неплохо с этой методологией ознакомиться. 
 Данная книга хороша тем, что показывает на реальных примерах программирование в стиле TDD. 
@@ -90,7 +90,7 @@ Test-Driven Development (TDD) – это очень популярная на д
 ## <a name="fundamentals"></a>Фундаментальные знания
 
 ### Алгоритмы на Java
-![image-left]({{ site.url }}{{ site.baseurl }}/images/algoritms_in_java-203x300.jpg){: .align-left}
+[![image-left]({{ site.url }}{{ site.baseurl }}/images/algoritms_in_java-203x300.jpg){: .align-left}](http://www.ozon.ru/context/detail/id/18319699/)
 При самоподготовке начинающим программистом часто упускаются из виду более фундаментальные знания и труды, 
 которые в профильном вузе изучаются достаточно подробно. 
 Начинающий программист очень уверено отвечает на вопросы по Java и ООП, однако впадает в ступор 
