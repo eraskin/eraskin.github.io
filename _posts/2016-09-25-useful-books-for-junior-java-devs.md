@@ -62,11 +62,7 @@ tags:
 Помимо самого синтаксиса Java разбираются базовые вещи из ООП и методологий разработки.
 
 ### Java. A Beginner's Guide
-<figure style="width: 242px" class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/java_oracle_book-242x300.jpg" alt="">
-  <figcaption>Amazon</figcaption>
-</figure>
-
+[![image-left]({{ site.url }}{{ site.baseurl }}/images/java_oracle_book-242x300.jpg){: .align-left}](http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/) Head First Java имеет довольно
 Более традиционная книга, написанная, скорее, в академичном стиле, если сравнивать с Head First Java. 
 Автором этой книги является [Герберт Шилдт](http://ru.wikipedia.org/wiki/%D0%A8%D0%B8%D0%BB%D0%B4%D1%82,_%D0%93%D0%B5%D1%80%D0%B1%D0%B5%D1%80%D1%82) – очень известный программист и писатель в области компьютерных наук. 
 Известен также за свои труды по C, C++ и C#. 
