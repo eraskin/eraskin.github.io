@@ -51,8 +51,7 @@ tags:
 ## <a name="java_core"></a>Синтаксис Java
 
 ### Head First Java
-![image-center]({{ site.url }}{{ site.baseurl }}/images/head_first_java-259x300.jpg){: .align-center}
-Head First Java имеет довольно своеобразную манеру подачи материала. 
+![image-left]({{ site.url }}{{ site.baseurl }}/images/head_first_java-259x300.jpg){: .align-left} Head First Java имеет довольно своеобразную манеру подачи материала. 
 Написана достаточно живым разговорным языком. Много примеров и иллюстраций. 
 Закрепление материала ведется с помощью задачек. Есть форум на сайте издательства O’Reilly, 
 где можно обсудить материал книги и задать любой вопрос по теме. 
