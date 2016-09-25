@@ -64,7 +64,7 @@ tags:
 ### Java. A Beginner's Guide
 <figure style="width: 242px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/images/java_oracle_book-242x300.jpg" alt="">
-  <figcaption>[www.amazon.com](http://www.amazon.com/Head-First-Java-Kathy-Sierra/dp/0596009208/)</figcaption>
+  <figcaption>Amazon</figcaption>
 </figure>
 
 Более традиционная книга, написанная, скорее, в академичном стиле, если сравнивать с Head First Java. 
