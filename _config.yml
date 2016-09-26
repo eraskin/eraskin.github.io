@@ -80,21 +80,21 @@ author:
   name             : "Alexei Eraskin"
   avatar           : "alexei.jpg"
   bio              : "Java-developer"
-  location         : "Poland"
-  email            :
-  uri              : "smartcoder.ru"
+  location         : "["smartcoder.ru"]("smartcoder.ru")"
+  email            : 
+  uri              : 
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/eraskin"
+  github           : "eraskin"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://pl.linkedin.com/in/aeraskin"
+  linkedin         : "aeraskin"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
