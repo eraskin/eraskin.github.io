@@ -79,10 +79,10 @@ analytics:
 author:
   name             : "Alexei Eraskin"
   avatar           : "alexei.jpg"
-  bio              : "Java-developer."
-  location         : "smartcoder.ru"
+  bio              : "Java-developer"
+  location         : "Poland"
   email            :
-  uri              :
+  uri              : "smartcoder.ru"
   bitbucket        :
   codepen          :
   dribbble         :
