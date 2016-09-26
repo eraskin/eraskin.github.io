@@ -1,16 +1,11 @@
 # /_data/authors.yml
 
-Alexei Eraskin:
-  name: "Alexei Eraskin"
-  uri: "http://thewhip.com"
-  email: "billy@rick.com"
-  bio: "What do you want, jewels? I am a very extravagant man."
-  avatar: "bio-photo-2.jpg"
-  twitter: "extravagantman"
-
 Anton Mironyuk:
   name: "Anton Mironyuk"
-  email: "cornelius@thewhip.com"
-  bio: "I ordered what?"
-  avatar: "bio-photo.jpg"
-  twitter: "rhymeswithsackit"
+  email: "mail.for.anton@gmail.com"
+  bio: "Android-developer"
+  avatar: "anton.jpg"
+  location: "Russia, Moscow"
+  github: "eraskin"
+  uri: "https://smartcoder.ru" 
+  linkedin: "amironyuk"
