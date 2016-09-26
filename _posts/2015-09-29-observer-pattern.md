@@ -2,6 +2,7 @@
 title: "Паттерн Observer"
 excerpt: "Паттерн Observer – это поведенческий шаблон проектирования. Он позволяет извещать набор объектов, так называемых Listeners (или Subscribers), об изменении состояния у какого-то другого объекта..."
 modified: 2015-09-29T09:55:10-04:00
+author: "Anton Mironyuk"
 header:
 tags: 
   - design patterns
