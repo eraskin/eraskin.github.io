@@ -3,7 +3,6 @@ title: "Полезные шаблоны проектирования в JavaScri
 excerpt: "В этом посте мы познакомимся с некоторыми шаблонами проектирования в JavaScript."
 modified: 2016-09-09T09:55:10-04:00
 header:
-  teaser: "alexei.jpg"
 tags: 
   - patterns
   - JavaScript
