@@ -79,8 +79,8 @@ analytics:
 author:
   name             : "Alexei Eraskin"
   avatar           : "alexei.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "Java-developer."
+  location         : "smartcoder.ru"
   email            :
   uri              :
   bitbucket        :
@@ -89,12 +89,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "https://github.com/eraskin"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "https://pl.linkedin.com/in/aeraskin"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
