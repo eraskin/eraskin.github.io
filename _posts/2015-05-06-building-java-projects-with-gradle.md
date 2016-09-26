@@ -3,7 +3,6 @@ title: "Сборка Java-проекта с помощью Gradle"
 excerpt: "В этом посте мы создадим простейшее приложение на Java и соберем его с помощью системы сборки Gradle."
 modified: 2015-05-06T09:55:10-04:00
 header:
-  teaser: "alexei.jpg"
 tags: 
   - build
   - gradle
