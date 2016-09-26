@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Sample Navigation Link"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/navigation/
+  - title: "Smartcoder.ru"
+    url: http://smartcoder.ru/
 
-  - title: "Sample Navigation Link 2"
-    url: /
+  - title: "Java-курсы"
+    url: http://smartcoder.ru/java-1/
+    
+  - title: "Android-курсы"
+    url: http://smartcoder.ru/android-1/
