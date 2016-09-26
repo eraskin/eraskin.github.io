@@ -23,7 +23,7 @@ tags:
 Где Subject – сущность издателя, изменения в которой транслируются всем наблюдателям. 
 Observer – сущность наблюдателя (слушателя), реализованная таким образом, что позволяет принимать сообщения от Subject.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/images/observer_pattern_uml_diagram.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/images/observer_pattern_uml_diagram.jpg)
 
 ### Шаг 1
 Реализуем класс Subject:
