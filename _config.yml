@@ -11,7 +11,7 @@ title                    : "Smartcoder"
 title_separator          : "-"
 name                     : "Eraskin Alexei"
 description              : "An amazing website."
-url                      : "https://eraskin.github.io/"
+url                      : "https://eraskin.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : eraskin/eraskin.github.io
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
