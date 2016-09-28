@@ -31,7 +31,7 @@ Observer – сущность наблюдателя (слушателя), ре�
 ### Шаг 1
 Реализуем класс Subject:
 
-```java
+```
 import java.util.ArrayList;
 import java.util.List;
 
@@ -64,7 +64,7 @@ public class Subject {
 ### Шаг 2
 Создадим абстрактный класс Observer:
 
-```java
+```
 public abstract class Observer {
    protected Subject subject;
    public abstract void update();
@@ -74,7 +74,7 @@ public abstract class Observer {
 ### Шаг 3
 Создадим конкретные классы наших наблюдателей, наследуясь от Observer:
 
-```java
+```
 public class BinaryObserver extends Observer{
 
    public BinaryObserver(Subject subject){
@@ -89,7 +89,7 @@ public class BinaryObserver extends Observer{
 }
 ```
 
-```java
+```
 public class OctalObserver extends Observer{
 
    public OctalObserver(Subject subject){
@@ -105,7 +105,7 @@ public class OctalObserver extends Observer{
 ```
 
 
-```java
+```
 public class HexaObserver extends Observer{
 
    public HexaObserver(Subject subject){
@@ -123,7 +123,7 @@ public class HexaObserver extends Observer{
 ### Шаг 4
 Используем созданные выше классы:
 
-```java
+```
 public class ObserverPatternDemo {
    public static void main(String[] args) {
       Subject subject = new Subject();
