@@ -154,3 +154,5 @@ Binary String: 1010
 ```
 
 По мотивам Design Patterns – [Observer Pattern](http://www.tutorialspoint.com/design_pattern/observer_pattern.htm)
+
+<script src="https://gist.github.com/nisrulz/11c0d63428b108f10c83.js"></script>
