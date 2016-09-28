@@ -9,6 +9,19 @@ tags:
   - java
 ---
 
+<link href="http://alexgorbatchev.com/pub/sh/current/styles/shThemeDefault.css" rel="stylesheet" type="text/css" />
+<script src="http://alexgorbatchev.com/pub/sh/current/scripts/shCore.js" type="text/javascript"></script>
+<script src="http://alexgorbatchev.com/pub/sh/current/scripts/shAutoloader.js" type="text/javascript"></script>
+
+<script type="text/syntaxhighlighter" class="brush: js"><![CDATA[
+  function foo()
+  {
+      if (counter <= 10)
+          return;
+      // it works!
+  }
+]]></script>
+
 ### Что это такое
 Паттерн Observer – это [поведенческий шаблон проектирования](https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD%D1%8B_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F). 
 Он позволяет извещать набор объектов, так называемых Listeners (или Subscribers), 
